@@ -1,3 +1,4 @@
 # css_mini_projects
-I create a recipe website 
+this is a normal food and sweets delivery website
+This website was created by me
 
