@@ -1,3 +1,3 @@
 # css_mini_projects
-I create a ricipe website 
+I create a recipe website 
 
